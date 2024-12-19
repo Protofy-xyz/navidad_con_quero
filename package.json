@@ -80,6 +80,7 @@
     "prettier": "^2.8.1",
     "rimraf": "^5.0.1",
     "semver": "^7.5.4",
+    "tmi.js": "1.8.5",
     "turbo": "^1.13.3"
   },
   "packageManager": "yarn@3.5.1",
